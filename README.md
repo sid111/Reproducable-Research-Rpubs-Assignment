@@ -1,4 +1,4 @@
-# Reproducable-Research-Rpubs-Assignment
+# Reproducible-Research-Rpubs-Assignment
 
 ==================
 Link on <a href="" target="_blank">RPubs</a>  
