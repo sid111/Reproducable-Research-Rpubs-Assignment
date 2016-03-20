@@ -1,7 +1,7 @@
 # Reproducible-Research-Rpubs-Assignment
 
 ==================
-Link on <a href="http://rpubs.com/sid101/my_storm_data_analysis" target="http://rpubs.com/sid101/my_storm_data_analysis">RPubs</a>  
+Link on <a href="http://rpubs.com/sid101/my_weather_effects_analysis" target="http://rpubs.com/sid101/my_weather_effects_analysis">RPubs</a>  
 
 ### Introduction
 
