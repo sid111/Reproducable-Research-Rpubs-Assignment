@@ -1,7 +1,7 @@
 # Reproducible-Research-Rpubs-Assignment
 
 ==================
-Link on <a href="" target="_blank">RPubs</a>  
+Link on <a href="" target="http://rpubs.com/sid101/my_storm_data_analysis">RPubs</a>  
 My [Reproducible Research Assignment]() Repo  
 
 ### Introduction
